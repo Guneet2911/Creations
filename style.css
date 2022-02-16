@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+#apps{
+    background: linear-gradient(#9cf7dc,#3b6156);
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#mycarousel{
+    background: linear-gradient(#ffa3d6,#7a4b65);
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#chatbot{
+    background: linear-gradient(#fae1aa,#8a7b5c);
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+hr{
+    background-color:black ;
+    height:3px;
+    width:450px;
+}
